@@ -28,14 +28,14 @@
 </p>
 
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&theme=dracula&hide_langs_below=1" /></br>
+<!-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&theme=dracula&hide_langs_below=1" /></br> -->
 
 
 ### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Some Self Projects**
 - 🌱 I’m currently learning **NodeJS**
-- 👯 I’m looking to collaborate on **Web DEV**
+- 👯 I’m looking to collaborate on **Software DEV & Web DEV**
 - 🤔 I’m looking for help with **Frontend**
 - 📫 How to reach me: **vivekomji@gmail.com**
 <!-- - ⚡ Fun fact: **I ** -->
