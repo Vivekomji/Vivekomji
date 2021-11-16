@@ -28,7 +28,8 @@
 </p>
 
 
-<!-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&theme=dracula&hide_langs_below=1" /></br> -->
+<!-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>   -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&theme=dracula&hide_langs_below=1" /></br>
 
 
 ### Here are some ideas to get you started:
