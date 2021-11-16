@@ -16,7 +16,7 @@
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=Vivekomji&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vivekomji&theme=tokyonight)
 
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&title_color=e6005c" />
+<!-- <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&title_color=e6005c" /> -->
 
 <p align="center"> 
   Visitor count<br>
