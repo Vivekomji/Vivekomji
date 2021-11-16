@@ -24,7 +24,7 @@
 - 🤔 I’m looking for help with **Frontend**
 - 📫 How to reach me: **vivekomji@gmail.com**
 <!-- - ⚡ Fun fact: **I ** -->
-<!-- - 😄 Pronouns: ... -->
+<!-- - 😄 Pronouns: .... -->
 
 
 ### Reach out to me 👓
