@@ -39,6 +39,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&theme=dracula&hide_langs_below=1" /></br>
 
 
+![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vivekomji&theme=dracula)
+
+
 ### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Some Self Projects**
@@ -50,6 +53,6 @@
 <!-- - 😄 Pronouns: .... -->
 
 
-### Reach out to me 👓
+## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'
 
 <a href="https://github.com/Vivekomji"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Vivekumarr/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vivek-kumar-8a5b99175/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
