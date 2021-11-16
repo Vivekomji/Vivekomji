@@ -12,7 +12,7 @@
 
 ![Vivek Kumar's github stats]
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Vivekomji&show_icons=true&count_private=true&title_color=e6005c" alt="Vivek's github stats" />
-<!-- <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&title_color=e6005c" /> -->
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&title_color=e6005c" />
 
 <p align="center"> 
   Visitor count<br>
