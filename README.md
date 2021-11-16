@@ -23,6 +23,10 @@
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=Vivekomji&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vivekomji&theme=tokyonight)
 
+<p align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&theme=dracula&hide_langs_below=1" /></br>
+</p>
+
 <!-- <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&title_color=e6005c" /> -->
 
 <p align="center"> 
@@ -36,7 +40,7 @@
 
 
 <!-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>   -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&theme=dracula&hide_langs_below=1" /></br>
+
 
 
 ![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vivekomji&theme=dracula)
@@ -53,7 +57,6 @@
 <!-- - 😄 Pronouns: .... -->
 
 
-## Connect with me:<img src='https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/handshake.gif'
-width="100px"></h3>
+## Connect with me:<img src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/handshake.gif" width="100px">
 
 <a href="https://github.com/Vivekomji"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Vivekumarr/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vivek-kumar-8a5b99175/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
