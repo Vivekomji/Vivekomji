@@ -11,7 +11,7 @@
 - :dart: Coding mainly in C++  
 <!-- - :smiley: ....... **[......](https://github.com)**  -->
 - :e-mail: Ask me about anything  **[vivekomji@gmail.com](vivekomji@gmail.com)**
-- :satellite: My Website **[Click Here](https://Vivekomji.github.io/#/)**
+- :satellite: My Website **[Click Here](https://vivekomji-resume.web.app/)**
 
 <!-- <a href="https://github.com/Vivekomji">
     <img src="https://komarev.com/ghpvc/?username=Vivekomji&color=dc143c&style=plastic">
