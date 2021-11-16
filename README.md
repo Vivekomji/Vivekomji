@@ -13,6 +13,10 @@
 - :e-mail: Ask me about anything  **[vivekomji@gmail.com](vivekomji@gmail.com)**
 - :satellite: My Website **[Click Here](https://Vivekomji.github.io/#/)**
 
+<a href="https://github.com/Vivekomji">
+    <img src="https://komarev.com/ghpvc/?username=Vivekomji&color=dc143c&style=plastic">
+</a> 
+
 <!-- ![Vivek Kumar's github stats] -->
 <!-- <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Vivekomji&show_icons=true&count_private=true&title_color=e6005c" alt="Vivek's github stats" /> -->
 
