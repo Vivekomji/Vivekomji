@@ -1,6 +1,9 @@
 # Hola 👐 , I'm Vivek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img  align='right' src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Github.png">
 </br>
 
+<img src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/octo.gif" width="100px" height="100px"></img> <br><br>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23F7164D&size=30&lines=Just+a+Codderrr)](https://git.io/typing-svg)
+
 👨‍🎓 B.Tech in Electrical Engineering from the **[NIT Silchar.](http://www.nits.ac.in/)** 
 
 ### About me :eyes:
