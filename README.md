@@ -13,9 +13,9 @@
 - :e-mail: Ask me about anything  **[vivekomji@gmail.com](vivekomji@gmail.com)**
 - :satellite: My Website **[Click Here](https://Vivekomji.github.io/#/)**
 
-<a href="https://github.com/Vivekomji">
+<!-- <a href="https://github.com/Vivekomji">
     <img src="https://komarev.com/ghpvc/?username=Vivekomji&color=dc143c&style=plastic">
-</a> 
+</a> --> 
 
 <!-- ![Vivek Kumar's github stats] -->
 <!-- <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Vivekomji&show_icons=true&count_private=true&title_color=e6005c" alt="Vivek's github stats" /> -->
@@ -54,5 +54,6 @@
 
 
 ## Connect with me:<img src='https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/handshake.gif'
+width="100px"></h3>
 
 <a href="https://github.com/Vivekomji"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Vivekumarr/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vivek-kumar-8a5b99175/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
