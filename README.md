@@ -10,10 +10,20 @@
 - :satellite: My Website **[Click Here](https://Vivekomji.github.io/#/)**
 
 ![Vivek Kumar's github stats]
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Vivekomji&show_icons=true&count_private=true&title_color=e6005c" alt="Utkarsh's github stats" />
+<img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&title_color=e6005c" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Vivekomji/count.svg" />
+</p>
+
+<p align="right">
+Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a>
+</p>
 
 
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitt1080&theme=dracula&hide_langs_below=1" /></br>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekomji&theme=dracula&hide_langs_below=1" /></br>
 
 
 ### Here are some ideas to get you started:
