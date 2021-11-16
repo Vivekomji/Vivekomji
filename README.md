@@ -24,7 +24,7 @@
 </p>
 
 <p align="right">
-Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a>
+<!-- Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a> -->
 </p>
 
 
