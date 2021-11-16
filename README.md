@@ -37,6 +37,8 @@
   <img src="https://profile-counter.glitch.me/Vivekomji/count.svg" />
 </p>
 
+<hr/>
+
 <p align="right">
 <!-- Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a> -->
 </p>
