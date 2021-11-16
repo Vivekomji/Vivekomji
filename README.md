@@ -1,5 +1,6 @@
-# Hola 👐 , I'm Vivek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Github.jpg">
+# Hola 👐 , I'm Vivek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img  align='right' src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Github.jpg">
 </br>
+
 👨‍🎓 B.Tech in Electrical Engineering from the **[NIT Silchar](http://www.nits.ac.in/)** 
 
 ### About me :eyes:
