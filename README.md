@@ -1,4 +1,4 @@
-# Hola 👐 , I'm Vivek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img  align='right' src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Github.png">
+# Hola 👐 , I'm Vivek <img src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Hi.gif" width="30px"> <img  align='right' src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Github.png">
 </br>
 
 <img src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/octo.gif" width="100px" height="100px"></img> <br><br>
@@ -53,6 +53,6 @@
 <!-- - 😄 Pronouns: .... -->
 
 
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'
+## Connect with me:<img src='https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/handshake.gif'
 
 <a href="https://github.com/Vivekomji"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Vivekumarr/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vivek-kumar-8a5b99175/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
