@@ -9,7 +9,7 @@
 ### About me :eyes:
 
 - :dart: Coding mainly in C++ and Python 
-- :smiley:****Data Engineer at Sigmoid Analytics**** 
+- :smiley:**Data Engineer at Sigmoid Analytics** **[https://www.sigmoid.com/]**
 - :e-mail: Ask me about anything  **[vivekomji@gmail.com](vivekomji@gmail.com)**
 - :satellite: My Website **[Click Here](https://vivekomji-resume.web.app/)**
 
