@@ -53,7 +53,7 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a **Data Engineer at Sigmoid Analytics**
+- 🔭 I’m currently working on **Some self Project**
 - 🌱 I’m currently learning **Python and Python Packages**
 - 👯 I’m looking to collaborate on **Software DEV & Web DEV**
 - 🤔 I’m looking for help with **Data**
