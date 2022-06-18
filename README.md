@@ -53,10 +53,10 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Some Self Projects**
-- 🌱 I’m currently learning **NodeJS**
+- 🔭 I’m currently working as a **Data Engineer at Sigmoid Analytics**
+- 🌱 I’m currently learning **Python and Python Packages**
 - 👯 I’m looking to collaborate on **Software DEV & Web DEV**
-- 🤔 I’m looking for help with **Frontend**
+- 🤔 I’m looking for help with **Data**
 - 📫 How to reach me: **vivekomji@gmail.com**
 <!-- - ⚡ Fun fact: **I ** -->
 <!-- - 😄 Pronouns: .... -->
