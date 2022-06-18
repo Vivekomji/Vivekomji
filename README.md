@@ -1,4 +1,4 @@
-# Hola 👐 , I'm Vivek <img src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Hi.gif" width="20px"> <img  align='right' src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Github.png">
+# Hola 👐 , I'm Vivek <img src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Hi.gif" width="20px" height="30px"> <img  align='right' src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/Github.png">
 </br>
 
 <img src="https://raw.githubusercontent.com/Vivekomji/Vivekomji/master/octo.gif" width="100px" height="100px"></img> <br><br>
